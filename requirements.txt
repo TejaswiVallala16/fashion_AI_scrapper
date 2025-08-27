@@ -1,0 +1,6 @@
+pandas
+requests
+tqdm
+matplotlib
+transformers
+huggingface_hub[hf_xet]
