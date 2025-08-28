@@ -1,6 +1,9 @@
+coloredlogs 
+tabulate 
+colorama 
+tqdm 
+transformers 
+requests 
+pillow 
 pandas
-requests
-tqdm
-matplotlib
-transformers
 huggingface_hub[hf_xet]
